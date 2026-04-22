@@ -1,0 +1,1 @@
+git clone https://github.com/a-givertzman/sky-scanner.git temp_folder

@@ -1,0 +1,11 @@
+path: /home/user/yolo_tests/dist/calibration_int8_dataset/ # указать путь к колибровочному датасету
+
+train: images
+val: images
+
+nc: 4
+names:
+  - DRONE
+  - AIRPLANE
+  - HELICOPTER
+  - BIRDS
